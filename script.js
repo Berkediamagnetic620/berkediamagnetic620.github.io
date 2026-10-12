@@ -113,7 +113,7 @@ async function loadDiscord(){
     const data=json.data;
     const user=data.discord_user;
     const status=data.discord_status || 'offline';
-    document.getElementById('discordName').textContent=user.global_name || user.display_name || 'Caesar';
+    document.getElementById('discordName').textContent=user.global_name || user.display_name || 'Caesrov';
     document.getElementById('discordStatus').textContent=statuses[status] || status;
     const dot=document.getElementById('statusDot');
     dot.className='status-dot '+status;
